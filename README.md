@@ -113,10 +113,6 @@ curl http://localhost:5000/recommend/1?n=5
 - Add a UI for browsing recommendations
 - Store results to a database
 
-## 💬 License
-
-MIT — feel free to use, fork, and remix!
-
 ## 👋 Author
 
 **Purab Shingvi**  
